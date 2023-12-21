@@ -58,7 +58,7 @@ button{
 button:hover{
     cursor: pointer;
 }
- 
+
 button:active{
     transform: scale(1.05);
     box-shadow: 0 24px 4px 1px rgba(0, 0, 0, 0.63),
